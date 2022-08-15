@@ -21,7 +21,7 @@ const aboutMe = {
   
 };
 ```
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, Sequelize**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Auth0, Sequelize**
 
 - 📫 How to reach me **foscarinig@gmail.com**
 
